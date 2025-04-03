@@ -8,3 +8,8 @@ requests==2.32.3
 Flask-WeasyPrint==1.1.0
 WeasyPrint==65.0
 gunicorn==23.0.0
+markdown-extensions==2021.8
+re==2.2.1
+os==0.1.4
+datetime==4.3
+json==2.0.9
