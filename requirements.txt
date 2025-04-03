@@ -3,13 +3,7 @@ Flask-SQLAlchemy==2.5.1
 Flask-Login==0.5.0
 google-generativeai==0.1.0
 Markdown==3.3.4
-markdown-extensions==2021.8
-re==2.2.1
-os==0.1.4
 Werkzeug==2.0.2
-datetime==4.3
-openai==0.27.0
-json==2.0.9
 requests==2.26.0
 Flask-WeasyPrint==0.6
 WeasyPrint==53.4
